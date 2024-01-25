@@ -1,6 +1,8 @@
 # Weather-Android
-Technologies
 
+СПОЙЛЕР!!! Передача аргументов в контструктор фрагмента абсолютно нормально, так как cirerone об этом уже позаботился))) Если бы не он, то не передовал бы
+
+Technologies
 Koin(Di)
 viewBinding
 Kotlin coroutines
