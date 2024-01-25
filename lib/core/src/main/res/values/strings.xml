@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Android</string>
+    <string name="error_title">Что-то пошло не так</string>
+    <string name="error_message">Повторите попытку позже</string>
+    <string name="error_unexpected">Разработчики уже исправляют проблему. Пожалуйста, попробуйте позже.</string>
+    <string name="error_no_internet_connection">Отсутствует подключение к интернету или оно нестабильно.</string>
+    <string name="error_invalid_response">Ошибка сервера. Пожалуйста, попробуйте позже.</string>
+    <string name="error_no_server_response">Не удалось подключиться к серверу. Пожалуйста, попробуйте позже.</string>
+    <string name="error_ssl_handshake">Не удалось установить подключение из-за параметров сетевой безопасности. Проверьте дату и время устройства.</string>
+    <string name="ok">Хорошо</string>
+</resources>

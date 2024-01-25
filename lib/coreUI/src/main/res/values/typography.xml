@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ProductSans">
+        <item name="android:fontFamily">@font/product_sans_regular</item>
+    </style>
+
+    <style name="ProductSans.H1">
+        <item name="android:textSize">112sp</item>
+    </style>
+
+    <style name="ProductSans.H2">
+        <item name="android:textSize">57sp</item>
+    </style>
+
+    <style name="ProductSans.S1">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="ProductSans.S2">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="ProductSans.S3">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="ProductSans.S4">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+    <style name="DefaultShape" parent="WeatherBanner">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomLeft">16dp</item>
+        <item name="cornerSizeBottomRight">16dp</item>
+    </style>
+</resources>
